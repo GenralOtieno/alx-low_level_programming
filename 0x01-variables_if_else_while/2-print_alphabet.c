@@ -13,5 +13,6 @@ int lowerCase = 'a';
 while (lowerCase <= 'z')
 {
 putchar(lowerCase);
+}
 return (0);
 }
